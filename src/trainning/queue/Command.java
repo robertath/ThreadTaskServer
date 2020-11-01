@@ -40,5 +40,4 @@ public class Command implements Comparable<Command> {
 	public void setParams(String params) {
 		this.params = params;
 	}
-
 }
